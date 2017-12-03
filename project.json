@@ -1,0 +1,7 @@
+{
+  "name": "lambda-go-lisp",
+  "runtime": "golang",
+  "description": "Run Lisp made with golang on AWS Lambda",
+  "role": "arn:aws:iam::194103584471:role/lambda-go-lisp",
+  "memory": 128
+}
